@@ -1,8 +1,9 @@
  *{
    background-color: aqua;
-
+ 
 
  }
+ 
  body {
   font-family: Arial, sans-serif;
   /* background-color: #f4f9f5; */
@@ -36,7 +37,7 @@ header {
   margin-bottom: 15px;
   border: 4px solid #007bff;
   /* text-align: left; */
-  align-items: flex-start;
+  /* align-items: flex-start; */
 }
 
 h1 {
